@@ -1,6 +1,6 @@
 # CT86
 
-Some infos to the c't86 DIY computer from 1984
+Some infos about the c't86 DIY computer from 1984
 
 https://www.youtube.com/watch?v=tujJqBYyxOc
 
